@@ -1,0 +1,13 @@
+﻿{
+  "Name": "For Each UI Element",
+  "Type": "Element",
+  "Id": "9xBS9mtYXUSdHnuB6w1jVg",
+  "Reference": "apiHK_8zS0uP_4E6uaRTTw/9xBS9mtYXUSdHnuB6w1jVg",
+  "ParentRef": "apiHK_8zS0uP_4E6uaRTTw/0l7PGTTa6EePfPnXAs_1kg",
+  "Created": "2025-02-24T10:15:42.6773689Z",
+  "Updated": "2025-02-24T10:15:42.6773689Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

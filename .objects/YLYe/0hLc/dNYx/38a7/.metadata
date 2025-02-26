@@ -1,0 +1,13 @@
+﻿{
+  "Name": "WorkItems",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "38a7vbBNB0m7oUdujI3ZBQ",
+  "Reference": "apiHK_8zS0uP_4E6uaRTTw/38a7vbBNB0m7oUdujI3ZBQ",
+  "ParentRef": "apiHK_8zS0uP_4E6uaRTTw/dNYxJ07pBkuv9zau6kBalA",
+  "Created": "2025-02-23T14:15:55.7560396Z",
+  "Updated": "2025-02-23T14:15:55.7560396Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

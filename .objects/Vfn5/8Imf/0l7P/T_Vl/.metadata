@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Client Information Deta…",
+  "Type": "Element",
+  "Id": "T_VlYj-Q4kKZkPLdi1s1nA",
+  "Reference": "apiHK_8zS0uP_4E6uaRTTw/T_VlYj-Q4kKZkPLdi1s1nA",
+  "ParentRef": "apiHK_8zS0uP_4E6uaRTTw/0l7PGTTa6EePfPnXAs_1kg",
+  "Created": "2025-02-24T12:38:05.8102038Z",
+  "Updated": "2025-02-24T12:38:05.8102038Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
