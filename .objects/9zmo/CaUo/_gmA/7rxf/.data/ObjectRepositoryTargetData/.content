@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JBVjt8i_nkevSBHKS9-LXQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="emn178.github.io/online-tools/sha1.html" CVScreenId="2afbebea-8766-4b28-a623-0e7ab0f59c82" CvTextArea="660, 246, 93, 11" CvTextArgument="Enter here..." CvType="Text" DesignTimeRectangle="652, 235, 1272, 381" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='input' tag='TEXTAREA' type='' class='container' placeholder='Enter here...' aaname='' /&gt;" Guid="6d23f1b4-9cbd-4eb8-bcc4-7689a4bc1216" ScopeSelectorArgument="&lt;html app='msedge.exe' title='SHA1 - Online Tools' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a3c5a1e76a2c5611e06fa1f0eb6d44bc.png" xmlns="">0CO0MsVG8DEu2ZH1TP5Np_Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

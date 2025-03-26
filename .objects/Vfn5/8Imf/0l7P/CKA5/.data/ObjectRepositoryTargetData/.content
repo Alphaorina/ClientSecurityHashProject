@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="e-M191SnAkC_b-_lCsO5Ng" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/105019257" CVScreenId="2047e728-1a94-4fae-ab8d-dbf6584ee0e5" CvTextArea="471, 287, 72, 13" CvTextArgument="Work Items" CvType="Text" DesignTimeRectangle="472, 286, 71, 16" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Work Items' tag='A' type='' class='' check:innerText='Work Items' /&gt;" Guid="cc406432-cc5a-4ded-9836-cd511176f19d" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="dc95a17441dd09585beab44ac1aad2e7.png" xmlns="">00ia0qWAE90GXuXFq9AbLGA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
